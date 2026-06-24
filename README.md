@@ -61,6 +61,16 @@ open index.html
 
 ---
 
+## ⚠️ Security Notice
+
+HexaVault stores passwords locally in your browser using Local Storage.
+
+This project is intended for learning and demonstration purposes and should **not** be used to store sensitive or real-world passwords.
+
+Future versions may add client-side encryption using the Web Crypto API.
+
+---
+
 ## Note:
 
 This is a personal learning project and will continue to evolve over time.
