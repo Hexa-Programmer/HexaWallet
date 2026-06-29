@@ -1,9 +1,9 @@
 # HexaWallet
 
 View HexaWallet at: https://hexa-programmer.github.io/HexaWallet/
-![HexaWallet Gameplay](showcase.png)
 HexaWallet is a minimal, web-based password manager built using HTML, CSS, and JavaScript.
 It runs entirely in the browser with no backend and uses localStorage for persistence.
+![HexaWallet Gameplay](showcase.png)
 
 ---
 
